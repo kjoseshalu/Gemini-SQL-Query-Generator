@@ -114,8 +114,11 @@ This is the default address where Streamlit apps run locally.
     
 ## Output
 
+### Screen 1
 ![App Screenshot](https://github.com/kjoseshalu/Gemini-SQL-Query-Generator/blob/main/Output/Screenshot-1.png)
 
+### Screen 2
 ![App Screenshot](https://github.com/kjoseshalu/Gemini-SQL-Query-Generator/blob/main/Output/screenshot-2.png)
 
+### Screen 3
 ![App Screenshot](https://github.com/kjoseshalu/Gemini-SQL-Query-Generator/blob/main/Output/screenshot-3.png)
